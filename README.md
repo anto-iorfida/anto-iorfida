@@ -23,8 +23,6 @@
    <a href="mailto:antonioiorfida99@gmail.com" target="blank">
    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" /></a>
    <span></span>
-   <a href="https://github.com/Mks30d" target="blank">
-   <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" /></a>
    <!-- sqlite, safari, google-chrome are other good icon options -->
 </div>
 
