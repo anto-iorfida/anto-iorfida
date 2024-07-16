@@ -9,9 +9,11 @@
     
    🌱 Attualmente sto imparando 
    <br>
+   <br>
    <img src="https://skillicons.dev/icons?i=react,nodejs" />
 
    ✔ Dove mi trovi:
+   
 </div>
 
 <div align="center">
@@ -20,9 +22,6 @@
    <span></span>
    <a href="mailto:antonioiorfida99@gmail.com" target="blank">
    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" /></a>
-   <span></span>
-   <a href="https://leetcode.com/u/Mks30d/" target="blank">
-   <img align="center" src="https://github.com/Mks30d/icons/blob/main/icons/leetcode_logo-modified.png" alt="Leetcode" height="36" /></a>
    <span></span>
    <a href="https://github.com/Mks30d" target="blank">
    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" /></a>
