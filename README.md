@@ -5,16 +5,20 @@
 
 <div align="center">
     
-   🔭 I’m currently working on **Student Management System App**
+   🔭 Attualmente sto continuando sempre a studiare **Sviluppo Web Front-end & Back-end**
     
-   🌱 I’m currently learning **Flutter, Java, DSA**
+   🌱 Attualmente sto imparando 
+   <br>
+   <img src="https://skillicons.dev/icons?i=react,nodejs" />
+
+   ✔ Dove mi trovi:
 </div>
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/mks30d" target="_blank">
+   <a href="www.linkedin.com/in/antonino-iorfida-4723a72ba" target="_blank">
    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="35" /></a>
    <span></span>
-   <a href="mailto:mks30d@gmail.com" target="blank">
+   <a href="mailto:antonioiorfida99@gmail.com" target="blank">
    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" /></a>
    <span></span>
    <a href="https://leetcode.com/u/Mks30d/" target="blank">
@@ -27,13 +31,13 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguaggi-Frameworks-Strumenti ⚒️</h2>
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,dart,c,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,npm,vite,git" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,androidstudio,idea,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,vscode,vue,bootstrap,github" />
 
 </div>
 <br/>
